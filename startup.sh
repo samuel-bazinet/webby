@@ -1,0 +1,1 @@
+noip-duc -y all.ddnskey.com --username vjxsdkw --password 2vvnR8CtCqfY & sudo ./webby-s & disown
