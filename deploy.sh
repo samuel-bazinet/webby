@@ -18,4 +18,5 @@ rm -rf ${PACKAGE}
 mkdir ${PACKAGE}
 mv ${SOURCE_PATH} ./${PACKAGE}
 cp -r pages ./${PACKAGE}
+cp startup.sh ./${PACKAGE}
 rsync -r ${PACKAGE}/ ${TARGET_HOST}:${TARGET_PATH}
