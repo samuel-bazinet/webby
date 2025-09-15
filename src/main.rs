@@ -29,6 +29,6 @@ async fn main() {
 
     let app = Router::new().route("/", get(handler)).route("/review/{*key}", get(reviews)).route("/{*key}", get(wild));
 
-    let listener = tokio::net::TcpListener::bind("127.0.0.1:8080").await.unwrap();
+    let listener = tokio::net::TcpListener::bind("0.0.0.0:80").await.unwrap();
     axum::serve(listener, app).await.unwrap();
 }
