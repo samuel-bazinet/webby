@@ -1,0 +1,272 @@
+export const posts = [
+    {
+        slug: 'think',
+        title: "Think Like a Human",
+        content:
+            `<h1>Thinking With BEAM and Defend Your Hatred of Big Tech: A Critic of David Weitzner’s Think Like A Human</h1>
+
+<h3>Written by Sam Bazinet</h3>
+
+<a href="https://discord.gg/qyBmxj4ff2" target="_blank">Join our discord to discuss!</a>
+
+<p>
+    When is the last time you have encountered an AI system, whether it be a chat bot or some auto generated content?
+    How often do you interact with them? In today’s world, it’s unlikely to get away from AI if you even so much as
+    touch a computer connected to the internet. You may feel dependent on it, or think that you cannot escape the
+    barrage of content put out with so little effort it barely has any intention. Enters David Weittzner, an associate
+    professor at York teaching Management courses, with his second book, Think Like a Human, showing us how to navigate
+    this world consumed by AI and use Artful Thinking to explore your human creativity and ingenuity to solve everyday
+    problems in an artful and lively manner. Except that he focused a bit too on criticizing AI and autonomous systems,
+    rather than filling us with hope and energy to go beyond.
+</p>
+
+<h2>
+    Algorithmic Dependence: Knowing the Enemy
+</h2>
+
+<p>
+    How does one make themselves feel more righteous? You point out how silly your competition is, of course. Weitzner
+    points out that despite being called “intelligent”, AI is really messy and nonsensical. He points out how ironic it
+    is that they are considered “algorithmic” despite being inconsistent with their answers. The author also has a lot
+    of beef with how many people working on developing AI are describing and “hyping” it up; anyone who dares liken how
+    AI works with how humans think is clearly mentally unwell and only cares about machines as far as Weitzner is
+    concerned. While it isn’t untrue that AI is wildly different from humans’ intelligence, there is a lot of scrutiny
+    put on those statements that just seems unfair and is only meant to put AI under more bad light. This is a very
+    common occurrence in this book but at least there is always a novel reason given as to why AIs aren’t humans, so it
+    is not as if the author is always rewriting the same thing over and over again to prove the same point. However,
+    some very good points are brought up against AI and their developers, like lazily patching their systems rather than
+    actually fixing them to avoid embarrassing errors such as accidental racism. The example used for this is Google’s
+    Photos app tagging a certain group of humans as Gorillas rather than humans. Google’s fix? Removing Gorilla as a
+    category… Not exactly something to be proud of.
+    AI and Big Tech aren’t the only baddies in this book; businesses are also under fire from this management professor.
+    He goes over how businesses use the “Five Step Hustle” to sell solutions to problems that only they can offer, and
+    that any other solution cannot possibly work and should be ignored (while begging policy makers to make their
+    solutions the de facto way to solve a problem). This is quite an interesting idea that can be easily demonstrated by
+    looking at how businesses promote their new products; it clearly works as some of us swear by them, while the more
+    cynical point out how unnecessary that “solution” really is. This isn’t the only thing that makes businesses bad;
+    the author is very annoyed by how unrealistically optimistic they are. He points to the WEF and how many of its 2015
+    predictions completely missed the mark. While not all of them are AI related, this doesn’t stop the ranting from
+    happening. At least context was given so it was not all emotional hate. The point remains that businesses shouldn’t
+    be the shining light of human development.
+    Closing off this section, we look at how humans and automated systems interact. Starting off with technologies
+    seemingly removing humans from the equation, like touch screen ordering machines at fast food places or Amazon’s
+    “Just walk out” stores, the latter of which actually relied on humans behind the scene to perform the monitoring.
+    Weitzner argues that this makes the experience less pleasant for everyone involved, which is quite the assumption
+    coming from someone who cares about non algorithmic thinking, since many consumers enjoy having fewer human
+    interactions. A bit of AI training was brought up around this point, where people would manually help train the AI
+    by classifying images and other learning data. There was an argument about how meaningless and badly paid those jobs
+    are, the latter being a fair criticism while the former seems a bit idealistic to say that all jobs must be mentally
+    stimulating. Moving on from this remark, the next point brought up is how businesses are influencing their audience
+    to be more dependent on their products. As brought up earlier, this is a very valid point and something worth
+    watching out for, not only from an educated consumer standpoint, but also from a creative avenue, as the author
+    argues.
+    At this point, the reader may feel like the author is being overly harsh on AI and its supporters. Worry not, as
+    this is still just the beginning…
+</p>
+
+<h2>
+    Artful Intelligence: Think with BEAM and defend your VICE (also hate AI)
+</h2>
+
+<p>
+    “Think with BEAM and defend your VICE”. This is what the author describes as “Artful Thinking”. The two components
+    of this statement get explained later in the section but we clearly cannot move along without complaining about an
+    algorithmic or AI related topic, in this case, it is all about ideologies employed by transhumanists and similar
+    groups. Weitzner argues that those ideologies are too rational, short sighted, and/or algorithmic to be realist or
+    useful to humans in the long run. He criticizes the vision of having humans and machines merge, where we end up all
+    in our own worlds within our “minds”, and where we would achieve some level of spiritual ascension, almost as if AIs
+    become our gods. His biggest complaint against those ideals is that it dehumanizes us, reducing us to data points or
+    broken machines that need fixing to become “perfect”. While transhumanism is a bit of an extreme ideology, there are
+    certainly benefits to having machines assist us in our lives, whether it be to help overcome disabilities or push
+    the boundaries of medicine, both of which are considered positive. It is fair to criticize those ideologies, but
+    dismissing all the positive aspects isn’t necessary to demonstrate the benefits of Artful Thinking.
+    BEAM, body, environment, action, and mind. Think with them and you shall achieve Artful Thinking, at least
+    partially. The human thought process is not simple and is influenced by a myriad of things. The author goes over how
+    each of the components of BEAM help us overcome problems and situations. He shares an anecdote about how one of his
+    mentors, Dr. Yitzchok Block, likes dancing on tables. Block being a Rabbi, Weitzner asks him why he performs as
+    such. Block reveals that it brings him joy and uses it as an expression of a life well lived. While this anecdote
+    may belong more to the VICE chapter, it is still interesting to the reader to see how one can use more than
+    intellect or logic to demonstrate something. Block used his body to show joy. Once the explanation and joyful
+    anecdotes are done, it is complaining time again. The comparison between human thinking and how AI learns is brought
+    up again, and this time we focus on Geoffrey Hinton’s quote about the difference between AI and humans: “I don’t
+    think there is anything special about people, other than to other people.” The article Weitzner references for this
+    quote is taken from a political journal and talks about AI “taking over” due to its recent explosion in
+    advancements. 2 years later and those advancements feel mostly stalled out, there is just a plethora of similar AI
+    assistants out there that only really differ by their specialization. There is nothing that could be considered
+    “sentient” or at risk of taking over. But that is not what Weitzner wanted to talk about. In fact, he just wanted to
+    express his disapproval of Hinton’s likening human thinking with AI learning, where he claims that Hinton simplifies
+    how humans think. Was it worth including Hinton’s quote in this chapter? Most likely, but it would have felt much
+    more hopeful to use it as a springboard to explore humans’ abilities rather than a negative talking point about how
+    “AI experts think humans are simple therefore they are bad people”.
+    VICE was purposely used as an acronym as the author believes that the algorithmically controlled future will see
+    artful thinking as going against the grain. VICE, volition, intention, choice, and explanation, is all about free
+    will and defending your decisions. In fact, most of this chapter revolves around the exploration of free will, using
+    anecdotes such as Rosa Park’s, where she famously would not give up her seat, defending her decision by claiming
+    that she was tired of segregation, and that moving would mean that she was agreeing to the social norm forced onto
+    her and her peers. There is much less complaining in this section. The obvious bit was about some Tech leader
+    mentioning something about humans not having free will, because there had to be some complaint, and since so many of
+    the Tech leaders happen to be transhumanist, it was fairly easy to find quotes that would please the author’s need
+    to complain about some opposing point of view.
+</p>
+
+<h2>
+    Artful Models: Living the art
+</h2>
+
+<p>
+    While the first half of the book focused on definitions and explaining what Artful Living is about, the latter half
+    focuses on examples of artful people and some more general ranting about how to live life artfully. The models
+    section is a series of conversational interviews the author had with people he deemed were exemplary artful models,
+    starting off with one of the author’s idols, Perry Farrel, Jane’s Addiction’s singer, who infamously had a recent
+    altercation with fellow band mates during a reunion tour. This isn’t mentioned despite occurring before the release
+    of the book, and while it isn’t relevant to the content of the book, those who know about it may have strong
+    emotions about the content of this chapter. Here, Perry talks about how he isn’t trying to be rational at all,
+    leaving that part to his wife. He mentions looking at the blue in the sky in moments where he feels overwhelmed by
+    his computer, to which Weitzner adds that looking at the sky helps one appreciate their body image, which isn’t
+    completely related to what Perry was going for but it goes back to BEAM so it’s all good.
+    The second model is Weitzner’s therapist Dr. Joe Goodman (yes he is a real person and it's his real name). Goodman
+    encourages the use of love to solve problems. The author does joke about the cheesiness and how love is referred to
+    as “the jargon”. There is also some talk about how society is more addicted to their computers and get access to
+    information provided in a lazier manner. This chapter is a bit less conversational than the last and the author uses
+    it to explore artful medicine. This isn’t meant to be some pseudo-science bit but he goes on about how medical
+    practitioners should be weary of trusting AI and machine learning systems as those systems could misdiagnose and
+    that medicinal practice should not be algorithmic. There is some question about the validity of this statement as
+    the author is very much not a medical expert, but it is a generally fair assessment and he did provide some sources
+    to solidify his point.
+    The final model is the cyclist Nicole van Beurden, introduced after a bit of an intro going over how humans solve
+    problems that are solved by AI, as AIs can only solve problems that their human creators let them solve, therefore
+    human creativity is necessary for problem solving. Nicole doesn’t have an engineering background, but she knows how
+    to ride a bike. She was concerned by how higher performing bikes require physically stronger and larger athletes to
+    handle, which made it so smaller people could not achieve the same levels. She went out to solve the weight problem
+    of the heavier high performance bikes and found some secondary effects in her solution that increased her
+    performance even further. The author points out how businesses are often focused on solving a specific problem a
+    certain way and don’t try new approaches. This is a wonderful point as so many businesses are effectively stagnant
+    and are at risk of a competitor making a breakthrough using alternative problem solving. This isn’t to say that this
+    chapter isn’t without flaws. The author brings up automation in planes and mentions how “planes with higher levels
+    of automation have higher accident rate”, while referring to the 737 MAX crashes. Those crashes were due to faulty
+    automation, but this was more of an engineering issue and lack of testing than the automation itself, as the problem
+    has since been addressed. He ironically compares the 737 MAX crashes to the Miracle of the Hudson, where an A320 was
+    involved, which arguably has more automated systems than the 737 due to its fly-by-wire system. The author isn’t an
+    engineer and doesn’t have a background in aviation so he unintentionally negates his own point through ignorance…
+</p>
+
+<h2>
+    Artful Living: Sometime we just want to rant
+</h2>
+
+<p>
+    Closing out this book is a section about how people should live their lives to be artful. The chapter opening this
+    section is all over the place. Starting off by mentioning how dynamic pricing works and is implemented by some
+    system. Most people agree that the latter is incredibly infuriating and so does the author. What follows is rather
+    weird and feels like the author releasing some built up frustration. He linked up the pro-Palestinian protests with
+    Nazi sympathizing. He makes this relevant to the book by using it as an example of people not being algorithmic but
+    not defending their VICE properly. This just seems to go against his earlier point about free will and doesn’t bring
+    much value to his book, other than some emotional bias. Closing off this weird chapter is the author wanting more
+    creators on online platforms, complaining about the ratio of creators vs consumers. It is fair to think that more
+    Artful Thinkers would imply more creators but it wasn’t necessary to bring up here as a mild complaint.
+    Thankfully the following chapters are far less controversial. Weitzner wants more social environments and
+    situations. Starting off with a mild rant about how modern students would rather have asynchronous classes with the
+    least amount of interactions possible, weirdly linking it up to “learning about the enemy” as his students are
+    mostly business majors which he has a disdain for. Moving on from that, he claims that social events help promote
+    Artful thinking and brings up an example of an artist marketing their new album by setting up some speakers and mats
+    in a circle and having bystanders listen and enjoy the moment. This is a nice example of artful thinking as an
+    unusual method of advertising is used and the participants experienced something new and enjoyable, which may help
+    promote more artful thinking.
+    The book ends on a more hopeful note. He brings up how so many tech leaders are claiming that an AI future is
+    inevitable, but he refutes them by stating the benefits of Artful Thinking. He does make the mistake of overselling
+    his solution, which he ironically condemns many times in this book. He ends on a warning that we should use BEAM and
+    VICE before big tech removes all semblance of privacy and control from our lives.
+</p>
+
+<h2>
+    Worth the read
+</h2>
+
+<p>
+    Despite all the ranting, this book is definitely worth reading, especially if you are feeling overwhelmed by AI or
+    if you can only live with it. If you were already against using AI, you may find some comfort in knowing that your
+    feelings are shared and reinforce your ideas of using human thoughts and creativity to solve problems. This book
+    could benefit from a future edition or a foreword to address the overwhelming complaints the author has but it is
+    well written and is an easy read. It will be interesting to know if this book will end up as a staple of modern self
+    help and used as reference in a future society.
+</p>`
+    },
+    {
+        slug: 'apollo',
+        title: "The Apollo Murders",
+        content:
+            `<h1>The Apollo Murders: An Astronaut’s Space Thriller</h1>
+
+    <h3>
+        By: Sam Baz
+    </h3>
+
+    <a href="https://discord.gg/qyBmxj4ff2" target="_blank">Join our discord to discuss!</a>
+
+    <p>
+        Space is not new to Chris Hadfield, having been in orbit 3 times aboard 2 vehicles, spending many moons orbiting the blue marble. But he has never been on the Saturn V, nor has he been to the Moon. This does not stop him from bringing us along on this thriller based on these elements. Hadfield uses his immense space knowledge and connections to tell a story filled with technical details making us experts of the Apollo program.
+    </p>
+
+    <p>
+        In a barely fictitious 1973, the US is getting ready to launch Apollo 18 as the last lunar mission. What the public doesn’t know is that this mission has military implications targeting the Soviets’ military and space ambition. Based on real missions, people, and spacecraft, this alternate history is filled with twists and turns, betrayal, and an engaging plot where you are never sure what will happen next.
+    </p>
+
+    <p>
+        The characters are, for the most part, quite flat and experience no to very little growth. This is not a slight against the novel as the story does not demand it. Hadfield’s approach to more complex characters is to have them keep their cards hidden from others, keeping the reader guessing as to what they will do next. While there is a definite main character, they are not the ones driving most of the actions. If anything, they are merely a bystander surrounded by chaos and mystery. Hadfield does let us peer into the minds of the characters doing the action, keeping us in the loop as they explain their thoughts and decisions.
+    </p>
+
+    <p>
+        As 1973 is deep into the Cold War, Russia and the Soviets are often portrayed in a more sinister light. This isn’t to say that they are the only or main antagonists in this story; most characters are personally motivated and both countries have their own nasties and pleasantries. This does occasionally put the reader in an interesting situation where they aren’t sure who they should be rooting for.
+    </p>
+
+    <p>
+        This being Hadfield’s first dive into the thriller genre, he does follow common tropes to drive the plot or inform the reader of what will come. Some plot points will come as no surprise, but there are plenty of occasions where the action comes out of left field and the reader is thrown into an exciting chain of events. The pacing is generally quite slow to highlight everything that is going on, but the ending does speed up way too much, making it feel quite rushed.
+    </p>
+
+    <p>
+        This novel is absolutely worth reading, even if you are not into space at all. Hadfield will walk you through what is happening and you may end up finding more to like about spaceflight and appreciate its complexities. This is also the first book in a series, making quite the opening of a thrilling alternate history space epic.
+    </p>`
+    },
+    {
+        slug: 'astronaut',
+        title: "An Astronaut's Guide to The Universe",
+        content: 
+        `
+         <h1>An Astronaut’s Guide to Life on Earth: Why Being in Space is Not The Peak of Your Life</h1>
+
+    <h3>
+        By: Sam Baz
+    </h3>
+
+    <a href="https://discord.gg/qyBmxj4ff2" target="_blank">Join our discord to discuss!</a>
+
+    <p>
+        After retiring from being a CSA astronaut, Chris Hadfield blessed us with a novel going over lessons and anecdotes from his life, focusing on his astronaut career. While the title seems to reference this being some kind of guidebook for life, and that is a big aspect of it, it is mostly an autobiography of Hadfield with his thoughts.     
+    </p>
+
+    <p>
+        Starting off with his childhood. Hadfield has always been a very motivated person, especially compared to the competitive procrastinator that I am. He saw the landing on the Moon and from that point on, he focused his entire life on being an astronaut. He went on to sturdy mechanical engineering at military school, then proceeded to become a test pilot, all driven by his perception that this is what NASA (and CSA) were looking for in astronauts. He accomplished his goal and got chosen to be an astronaut, but this is only the beginning of a new adventure for him.    
+    </p>
+
+    <p>
+        An important lesson Hadfield pointed out is that being an astronaut is a life of endless learning and training. There are many systems to know, many possibilities, and no room for “winging” things. Astronauts, and as he argues, anyone, should be prepared for any situation you know you might end up in. It would be silly to be given an opportunity and act as if you will figure everything out as you do it. Very little is left to fate, even what to do after death is planned and prepared to keep the mind as clear as possible. And no need to be an astronaut to take advantage of this. Although Hadfield’s immense motivation is definitely distracting him from the fact that many people are not nearly as motivated as he is and will happily coast through life.     
+    </p>
+
+    <p>
+        In this spirit, Chris emphasizes how important it is to “sweat the small stuff”. It may seem like all the small things we do in life are trivial with little impact, but a single mistake is often the cause of many issues. The lesson here is to be good at the small stuff. Keep them simple to not develop more problems. Hadfield also went over team building and how important it is to be able to work with people and find people that you can work with, especially if you will be locked with them for many months without an easy way out.     
+    </p>
+
+    <p>
+        The second section of this book goes over his last mission to space, during expedition 34/35. While this section is much less about lessons, Hadfield goes over his life in the orbiting laboratory. He goes into some amount of details on his day to day life, but then goes into extra details on how urine samples are collected, and how messy they are. Not many lessons are given in this section and it is mostly anecdotes but it is good reading. Hadfield is great at narrating his tasks in an entertaining way.    
+    </p>
+
+    <p>
+        The last section goes over his return back on Earth after the mission. He goes over how difficult it was to rehabilitate and do all the tests needed to satisfy the science. This goes back to his earlier point where an astronaut’s job is not just going to space, but also all the things to do before and after. To that point, Hadfield comments on how he finds life on Earth to not be worse than in space. Many people asked him if he thought it would be the end since he was retiring, but he wants to keep doing new things and enjoy the rest of his life with new adventures, being an astronaut was just another chapter in his life.
+    </p>
+
+    <p>
+        This book is great reading for anyone interested in the life of an astronaut. Chris  shares many interesting anecdotes and provides very good advice to maximize your life to get into as few trouble as possible while also enjoying yourself to the max. Hopefully you get to find a physical version to keep as a reference.
+    </p>
+        `
+    }
+];
