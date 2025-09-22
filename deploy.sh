@@ -17,6 +17,7 @@ cargo build --release
 rm -rf ${PACKAGE}
 mkdir ${PACKAGE}
 mv ${SOURCE_PATH} ./${PACKAGE}
-cp -r pages ./${PACKAGE}
+mkdir -p ${PACKAGE}/pages/webby_f
+cp -r pages/webby_f/build ./${PACKAGE}/pages/webby_f
 cp startup.sh ./${PACKAGE}
 rsync -r ${PACKAGE}/ ${TARGET_HOST}:${TARGET_PATH}

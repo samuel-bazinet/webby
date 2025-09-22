@@ -3,6 +3,10 @@ name = "webby-s"
 version = "0.1.0"
 edition = "2024"
 
+[features]
+default = []
+dev = []
+
 [dependencies]
 axum = "0.8.4"
 log = "0.4.25"
