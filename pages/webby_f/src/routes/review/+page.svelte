@@ -6,6 +6,6 @@
 
 <ul>
 	{#each data.summaries as {slug, title}}
-		<li><a href="/review/{slug}">{title}</a></li>
+		<li><a href="/review/{slug}" target="_self">{title}</a></li>
 	{/each}
 </ul>

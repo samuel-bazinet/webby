@@ -1,6 +1,7 @@
-use axum::{Router, extract::Path, response::Html, routing::get};
+use axum::{Router, extract::Path, response::{Html, }, routing::get};
 use simple_logger::SimpleLogger;
 use std::fs::read_to_string;
+use tower_http::services::ServeDir;
 
 const CONTENT_PATH: &str = "./pages/webby_f/build/";
 
@@ -17,8 +18,10 @@ async fn review() -> Html<String> {
 async fn reviews(Path(path): Path<String>) -> Html<String> {
     log::info!("Serving Review {path}");
     Html(
-        read_to_string(format!("{CONTENT_PATH}review/{path}.html"))
-            .unwrap_or(format!("Review could not be found")),
+        read_to_string(format!("{CONTENT_PATH}review/{path}.html")).unwrap_or_else(|path| {
+            log::warn!("Could not find review with error: {path}");
+            format!("Review could not be found")
+        }),
     )
 }
 
@@ -26,11 +29,14 @@ async fn reviews(Path(path): Path<String>) -> Html<String> {
 async fn main() {
     SimpleLogger::new().init().unwrap();
     log::info!("Starting up webby server");
+    let static_files = ServeDir::new(format!("{CONTENT_PATH}_app/"));
+    //let json_files = ServeDir::new(format!("{CONTENT_PATH}"));
 
     let app = Router::new()
         .route("/", get(index))
         .route("/review", get(review))
-        .route("/review/{*key}", get(reviews));
+        .route("/review/{key}", get(reviews))
+        .nest_service("/_app", static_files);
 
     let listener = if cfg!(feature = "dev") {
         tokio::net::TcpListener::bind("127.0.0.1:8080")

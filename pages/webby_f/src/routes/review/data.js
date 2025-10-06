@@ -268,5 +268,42 @@ export const posts = [
         This book is great reading for anyone interested in the life of an astronaut. Chris  shares many interesting anecdotes and provides very good advice to maximize your life to get into as few trouble as possible while also enjoying yourself to the max. Hopefully you get to find a physical version to keep as a reference.
     </p>
         `
+    },
+    {
+        slug: 'defector',
+        title: "The Defector",
+        content: 
+        `
+         <h1>The Defector: The Cold War Epic’s Exciting Second Chapter</h1>
+
+    <h3>
+        By: Sam Baz
+    </h3>
+
+    <a href="https://discord.gg/qyBmxj4ff2" target="_blank">Join our discord to discuss!</a>
+
+    <p>
+        Hadfield brings us back to his 1973 Cold War story, catching us up with Kaz, taking a vacation in Israel after the events of the Apollo Murders. While his vacation is not cut short, it is shaken by the surprised defection of a Soviet test pilot offering a rarely seen MiG-25 as a gift to the US. 
+    </p>
+
+    <p>
+        While the author is more well known for being an astronaut, it is worth remembering that he was a test pilot and served in the CAF. The Defector is definitely more focused on that aspect, with very little in-space activity. Hadfield does not let the spaceflight fans get disappointed as he spreads in a few space related plot points, with various levels of correlation to the main plot.    
+    </p>
+
+    <p>
+        This being Hadfield’s second dive in the Thriller genre, his writing does feel generally better as he develops his style. This story taking place over a few months feels a lot more casual as the events are not happening back to back in a tiny restricted area with only a few characters interacting at a time. The foreshadowing was also generally much better implemented in this story as some events could be predicted from earlier chapters, which felt quite rewarding for the reader. Unfortunately, as with the Apollo Murders, the last few chapters are longer and very fast paced, while most of the book is relatively slow and each chapter has a tight focus. While the excitement is quite thrilling, it does hurt the pacing quite a bit and feels a bit off when you only have a single chapter to cool down before the end of the story.    
+    </p>
+    
+    <p>
+        This novel also leans more on the serialization of the story, with the ending hinting at more events to come, as well as many overarching plots introduced that were not closed. In fact, the ending almost feels like a soft cliffhanger, not being in the middle of action, but leaving plot points in the mind of the readers, perhaps hyping them for the next installment.     
+    </p>
+
+    <p>
+        Hadfield also makes a bit of a mistake where he makes his antagonist do very cruel things and puts them in a very bad light to remove much nuance from them. It feels unneeded and like a way to force the reader to dislike them.     
+    </p>
+
+    <p>
+        Overall this was an excellent continuation of the Apollo Murders story and with the next installment coming out soon, now would be a great time to catch up or experience this.
+    </p>`
     }
 ];
